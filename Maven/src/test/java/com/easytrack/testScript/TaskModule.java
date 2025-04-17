@@ -15,5 +15,9 @@ public class TaskModule {
 	public void user() {
 		Reporter.log("This is user project-02",true);
 	}
+	@Test
+	public void deleteUser() {
+		Reporter.log("the user deleted successfully",true);
+	}
 
 }

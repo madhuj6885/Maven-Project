@@ -2,28 +2,25 @@
 <testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
   <reporter-output>
     <line>
-      <![CDATA[User module created successfully]]>
-    </line>
-    <line>
       <![CDATA[This is demo project-01]]>
     </line>
     <line>
       <![CDATA[This is user project-02]]>
     </line>
   </reporter-output>
-  <suite started-at="2025-03-12T11:10:57 IST" name="Suite" finished-at="2025-03-12T11:10:57 IST" duration-ms="112">
+  <suite started-at="2025-04-17T15:37:27 IST" name="Suite" finished-at="2025-04-17T15:37:33 IST" duration-ms="6669">
     <groups>
     </groups>
-    <test started-at="2025-03-12T11:10:57 IST" name="Test" finished-at="2025-03-12T11:10:57 IST" duration-ms="112">
+    <test started-at="2025-04-17T15:37:27 IST" name="Test" finished-at="2025-04-17T15:37:33 IST" duration-ms="6669">
       <class name="com.easytrack.testScript.TaskModule">
-        <test-method signature="demo()[pri:0, instance:com.easytrack.testScript.TaskModule@291ae]" started-at="2025-03-12T11:10:57 IST" name="demo" finished-at="2025-03-12T11:10:57 IST" duration-ms="1" status="PASS">
+        <test-method signature="demo()[pri:0, instance:com.easytrack.testScript.TaskModule@6a192cfe]" started-at="2025-04-17T15:37:33 IST" name="demo" finished-at="2025-04-17T15:37:33 IST" duration-ms="2" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[This is demo project-01]]>
             </line>
           </reporter-output>
         </test-method> <!-- demo -->
-        <test-method signature="user()[pri:0, instance:com.easytrack.testScript.TaskModule@291ae]" started-at="2025-03-12T11:10:57 IST" name="user" finished-at="2025-03-12T11:10:57 IST" duration-ms="0" status="PASS">
+        <test-method signature="user()[pri:0, instance:com.easytrack.testScript.TaskModule@6a192cfe]" started-at="2025-04-17T15:37:33 IST" name="user" finished-at="2025-04-17T15:37:33 IST" duration-ms="2" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[This is user project-02]]>
@@ -32,11 +29,8 @@
         </test-method> <!-- user -->
       </class> <!-- com.easytrack.testScript.TaskModule -->
       <class name="com.easytrack.testScript.UserModule">
-        <test-method signature="name()[pri:0, instance:com.easytrack.testScript.UserModule@130161f7]" started-at="2025-03-12T11:10:57 IST" name="name" finished-at="2025-03-12T11:10:57 IST" duration-ms="10" status="PASS">
+        <test-method signature="name()[pri:0, instance:com.easytrack.testScript.UserModule@243c4f91]" started-at="2025-04-17T15:37:27 IST" name="name" finished-at="2025-04-17T15:37:33 IST" duration-ms="6572" status="PASS">
           <reporter-output>
-            <line>
-              <![CDATA[User module created successfully]]>
-            </line>
           </reporter-output>
         </test-method> <!-- name -->
       </class> <!-- com.easytrack.testScript.UserModule -->
